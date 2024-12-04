@@ -4,8 +4,8 @@ This is a collection of my models for 3D printing. You can either use them by fo
 
 **lamp mount for terrarium**
 
-[MakerWorld](https://makerworld.com/de/models/849174) | STL
+[MakerWorld](https://makerworld.com/de/models/849174) | [STL](https://github.com/shering1988/3d-print/blob/main/models/lampholder_terrarium.stl)
 
 **backpack hanger**
 
-[MakerWorld](https://makerworld.com/de/models/849106) | STL
+[MakerWorld](https://makerworld.com/de/models/849106) | [STL](https://github.com/shering1988/3d-print/blob/main/models/hanger.stl)
