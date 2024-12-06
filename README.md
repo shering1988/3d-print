@@ -16,4 +16,4 @@ This is a collection of my models for 3D printing. You can either use them by fo
 
 <img src="https://github.com/shering1988/3d-print/blob/main/images/2024-12-04_56d668b9cd1f7.webp" width="200">
 
-[MakerWorld](https://makerworld.com/de/models/849106) | [STL](https://github.com/shering1988/3d-print/blob/main/models/hanger.stl){width=250}
+[MakerWorld](https://makerworld.com/de/models/849106) | [STL](https://github.com/shering1988/3d-print/blob/main/models/hanger.stl)
