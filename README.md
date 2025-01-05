@@ -49,3 +49,10 @@ This is a collection of my models for 3D printing. You can either use them by fo
 <img src="https://github.com/shering1988/3d-print/blob/main/images/cover-raachrkerzl.png" width="200">
 
 [MakerWorld](https://makerworld.com/de/models/869890#profileId-821684) | [STL](https://github.com/shering1988/3d-print/tree/main/models/raachrkerzl)
+---
+
+**COIN TRAY**
+
+<img src="https://github.com/shering1988/3d-print/blob/main/images/inlay.png" width="200">
+
+[MakerWorld](https://makerworld.com/de/models/955724#profileId-924615) | [STL](https://github.com/shering1988/3d-print/tree/main/models/inlay.stl)
